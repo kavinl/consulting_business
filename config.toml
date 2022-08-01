@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "Kavin Lam"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 
@@ -25,4 +25,4 @@ paginate = 3
   addFrame = true
   addDot = true
 
-  highlightColor = '#7b16ff'
+  highlightColor = '#137618'
